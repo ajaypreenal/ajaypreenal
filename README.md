@@ -91,4 +91,4 @@
 ---
 
 # ⚡ Fun Fact
-I enjoy building real-world systems and working on drones & aeromodelling ✈️
+I enjoy coding and implementing a good and optimal solutions for various problem statements and also building systems and working on drones & aeromodelling ✈️
